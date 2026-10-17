@@ -7,3 +7,12 @@
 Link Google Form: [Tại đây](https://docs.google.com/forms/d/e/1FAIpQLScRaMbL0-1X5vcZgOegVz6eMmiE16zaFvNJM9VxpVRJsjzLOA/viewform?usp=dialog)
 
 Vẽ sơ đồ tư duy về rủi ro an ninh thông tin sinh viên có thể gặp.
+![](Mindmap.jpg)
+
+**Tiết 2: Tự rèn kỹ năng bảo mật tài khoản**
+
+Checklist “Quy tắc bảo mật tài khoản” do sinh viên tự xây dựng
+
+![](2.png)
+
+**Tiết 3: Thực hành nhận diện lừa đảo & nguy cơ online**
