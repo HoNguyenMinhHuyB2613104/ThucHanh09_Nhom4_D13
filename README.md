@@ -16,3 +16,18 @@ Checklist “Quy tắc bảo mật tài khoản” do sinh viên tự xây dựn
 ![](2.png)
 
 **Tiết 3: Thực hành nhận diện lừa đảo & nguy cơ online**
+
+Báo cáo ngắn của nhóm: “5 dấu hiệu nhận biết email/website lừa đảo”
+![Tại Đây](BAI_3_TH9_Nhom4.docx)
+
+**Tiết 4: Tự quản lý sức khỏe số**
+
+Poster nhóm
+![](Poster.png)
+
+Nhật ký cá nhân
+![](NhatKi.png)
+
+**Tiết 5: Dự án tình huống & phản biện**
+
+Video/clip ngắn hoặc kịch bản tình huống + phần phản biện.: ![Video](https://youtu.be/7pJL-Qna05c)
